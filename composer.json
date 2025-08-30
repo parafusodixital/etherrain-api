@@ -1,0 +1,19 @@
+{
+    "name": "ignacio/etherrain-api",
+    "description": "API to interact with EtherRain Web",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ignacio\\EtherrainApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ignacio Colino",
+            "email": "gardeneer@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
